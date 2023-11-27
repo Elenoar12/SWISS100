@@ -71,8 +71,8 @@ def move_EAR(source_folder, destination_folder):
 
 ## Usage EAR:
 ## Define the source folder (EAR) and the destination folder (Cases)
-# source_folder = r"\\stor01.dynage.uzh.ch\swiss100\data\py_testing\EAR data"
-# destination_folder = r"\\stor01.dynage.uzh.ch\swiss100\data\py_testing\Cases"
+# source_folder = r"path\EAR data"
+# destination_folder = r"path\Cases"
 # move_EAR(source_folder, destination_folder)
 
 
